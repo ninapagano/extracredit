@@ -9,14 +9,6 @@
 	],
 "creatorBuild": "32186",
 "files": {
-	"/.gitattributes": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/.gitattributes",
-		"oF": 0
-		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -46,43 +38,25 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/design/Desktop.svg": {
+	"/design/npaganoextracreditanimation-01.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/design/Desktop.svg",
+		"oAP": "/design/npaganoextracreditanimation-01.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/design/final web design copy.svg": {
+	"/design/updatedsvg.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/design/final web design copy.svg",
+		"oAP": "/design/updatedsvg.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
-		},
-	"/design/newedits.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/design/newedits.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
-	"/design/web-final-project.sketch": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/design/web-final-project.sketch",
-		"oF": 0
 		},
 	"/dev/content/svg-container.kit": {
 		"cB": 0,
@@ -313,28 +287,6 @@
 		"oAP": "/node_modules",
 		"oF": 0
 		},
-	"/node_modules/gsap/CSSPlugin.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/node_modules/gsap/CSSPlugin-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/node_modules/gsap/gsap-core.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/node_modules/gsap/gsap-core-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"/node_modules/gsap/index.js": {
 		"bF": 0,
 		"ft": 64,
@@ -388,7 +340,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 640184504.22365296,
-	"displayValue": "npagano extra credit",
+	"displayValue": "extracredit",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-ron",
 	"iconImageWasSetByUser": 1
